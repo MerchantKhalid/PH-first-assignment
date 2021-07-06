@@ -5,7 +5,7 @@ body {
 .brand {
   text-align: left;
   font-size: 35px;
-  color: #fff;
+  color: #000;
   font-weight: bold;
 }
 /* Navbar */
@@ -13,7 +13,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: black;
+  background-color: white;
   position: sticky;
   top: 0;
   margin: 0 85px 0 85px;
@@ -32,9 +32,10 @@ body {
 }
 .navbar ul li a {
   text-decoration: none;
-  color: #fff;
+  color: black;
   margin: 0 15px;
 }
+/*nav ends here*/
 
 h1 {
   font-size: 50px;
@@ -88,7 +89,7 @@ h1.first-heading {
 }
 /*section about ends here*/
 
-/*section recepie starts here*/
+/* recepie starts here*/
 .recipie {
   text-align: center;
 }
@@ -113,7 +114,7 @@ h1.first-heading {
   margin: 5px;
   max-width: 100%;
 }
-/* section recipie ends here*/
+/*  recipie ends here*/
 
 /*footer starts here*/
 footer {
